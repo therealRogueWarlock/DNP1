@@ -1,0 +1,16 @@
+C:\Users\SandersOpPc\RiderProjects\DNP1\Session1\Ex9\bin\Debug\net5.0\Ex9.exe
+C:\Users\SandersOpPc\RiderProjects\DNP1\Session1\Ex9\bin\Debug\net5.0\Ex9.deps.json
+C:\Users\SandersOpPc\RiderProjects\DNP1\Session1\Ex9\bin\Debug\net5.0\Ex9.runtimeconfig.json
+C:\Users\SandersOpPc\RiderProjects\DNP1\Session1\Ex9\bin\Debug\net5.0\Ex9.runtimeconfig.dev.json
+C:\Users\SandersOpPc\RiderProjects\DNP1\Session1\Ex9\bin\Debug\net5.0\Ex9.dll
+C:\Users\SandersOpPc\RiderProjects\DNP1\Session1\Ex9\bin\Debug\net5.0\ref\Ex9.dll
+C:\Users\SandersOpPc\RiderProjects\DNP1\Session1\Ex9\bin\Debug\net5.0\Ex9.pdb
+C:\Users\SandersOpPc\RiderProjects\DNP1\Session1\Ex9\obj\Debug\net5.0\Ex9.csproj.AssemblyReference.cache
+C:\Users\SandersOpPc\RiderProjects\DNP1\Session1\Ex9\obj\Debug\net5.0\Ex9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SandersOpPc\RiderProjects\DNP1\Session1\Ex9\obj\Debug\net5.0\Ex9.AssemblyInfoInputs.cache
+C:\Users\SandersOpPc\RiderProjects\DNP1\Session1\Ex9\obj\Debug\net5.0\Ex9.AssemblyInfo.cs
+C:\Users\SandersOpPc\RiderProjects\DNP1\Session1\Ex9\obj\Debug\net5.0\Ex9.csproj.CoreCompileInputs.cache
+C:\Users\SandersOpPc\RiderProjects\DNP1\Session1\Ex9\obj\Debug\net5.0\Ex9.dll
+C:\Users\SandersOpPc\RiderProjects\DNP1\Session1\Ex9\obj\Debug\net5.0\ref\Ex9.dll
+C:\Users\SandersOpPc\RiderProjects\DNP1\Session1\Ex9\obj\Debug\net5.0\Ex9.pdb
+C:\Users\SandersOpPc\RiderProjects\DNP1\Session1\Ex9\obj\Debug\net5.0\Ex9.genruntimeconfig.cache
