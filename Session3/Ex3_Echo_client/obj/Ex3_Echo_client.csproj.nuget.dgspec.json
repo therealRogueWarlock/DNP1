@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SandersOpPc\\RiderProjects\\DNP1\\Session3\\Ex3_Echo_client\\Ex3_Echo_client.csproj": {}
+    "C:\\Users\\Sander\\RiderProjects\\DNP1\\Session3\\Ex3_Echo_client\\Ex3_Echo_client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SandersOpPc\\RiderProjects\\DNP1\\Session3\\Ex3_Echo_client\\Ex3_Echo_client.csproj": {
+    "C:\\Users\\Sander\\RiderProjects\\DNP1\\Session3\\Ex3_Echo_client\\Ex3_Echo_client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SandersOpPc\\RiderProjects\\DNP1\\Session3\\Ex3_Echo_client\\Ex3_Echo_client.csproj",
+        "projectUniqueName": "C:\\Users\\Sander\\RiderProjects\\DNP1\\Session3\\Ex3_Echo_client\\Ex3_Echo_client.csproj",
         "projectName": "Ex3_Echo_client",
-        "projectPath": "C:\\Users\\SandersOpPc\\RiderProjects\\DNP1\\Session3\\Ex3_Echo_client\\Ex3_Echo_client.csproj",
-        "packagesPath": "C:\\Users\\SandersOpPc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SandersOpPc\\RiderProjects\\DNP1\\Session3\\Ex3_Echo_client\\obj\\",
+        "projectPath": "C:\\Users\\Sander\\RiderProjects\\DNP1\\Session3\\Ex3_Echo_client\\Ex3_Echo_client.csproj",
+        "packagesPath": "C:\\Users\\Sander\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sander\\RiderProjects\\DNP1\\Session3\\Ex3_Echo_client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\SandersOpPc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Sander\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }

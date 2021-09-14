@@ -2,6 +2,7 @@
 using System.Net;
 using System.Net.Sockets;
 using System.Text;
+using System.Threading;
 
 namespace Ex3_Echo_server
 {
@@ -17,45 +18,38 @@ namespace Ex3_Echo_server
 
             Console.WriteLine("TcpListener started");
 
-            while (true)
-            {
-                TcpClient client = tcpListener.AcceptTcpClient();
+           
+            TcpClient client = tcpListener.AcceptTcpClient();
 
-                Console.WriteLine($"Client{client} has connected");
+            Console.WriteLine($"Client{client} has connected");
 
-                HandleClient(client);
-
-            }
+            HandleClient(client);
         }
 
         static void HandleClient(TcpClient client)
         {
+            
             string dataFromClient = "";
+            
             NetworkStream stream = client.GetStream();
 
-
-            while (!dataFromClient.Equals("quit!"))
-            {
-
+            while (!dataFromClient.Equals("quit")) {
+                
                 // read from client
                 byte[] clientDataContainer = new byte[1024];
                 int bytesRead = stream.Read(clientDataContainer, 0, clientDataContainer.Length);
                 dataFromClient = Encoding.ASCII.GetString(clientDataContainer, 0, bytesRead);
+                
                 Console.WriteLine(dataFromClient);
-
-
+                
                 // responding to client
                 byte[] responseDataContainer = Encoding.ASCII.GetBytes($"Returning {dataFromClient}");
                 stream.Write(responseDataContainer, 0, responseDataContainer.Length);
-                //
 
             }
 
             client.Close();
 
         }
-
-
     }
-
 }

@@ -1,0 +1,16 @@
+C:\Users\Sander\RiderProjects\DNP1\Session3\Ex5_Chat_program_server\bin\Debug\net5.0\Ex5_Chat_program_server.exe
+C:\Users\Sander\RiderProjects\DNP1\Session3\Ex5_Chat_program_server\bin\Debug\net5.0\Ex5_Chat_program_server.deps.json
+C:\Users\Sander\RiderProjects\DNP1\Session3\Ex5_Chat_program_server\bin\Debug\net5.0\Ex5_Chat_program_server.runtimeconfig.json
+C:\Users\Sander\RiderProjects\DNP1\Session3\Ex5_Chat_program_server\bin\Debug\net5.0\Ex5_Chat_program_server.runtimeconfig.dev.json
+C:\Users\Sander\RiderProjects\DNP1\Session3\Ex5_Chat_program_server\bin\Debug\net5.0\Ex5_Chat_program_server.dll
+C:\Users\Sander\RiderProjects\DNP1\Session3\Ex5_Chat_program_server\bin\Debug\net5.0\ref\Ex5_Chat_program_server.dll
+C:\Users\Sander\RiderProjects\DNP1\Session3\Ex5_Chat_program_server\bin\Debug\net5.0\Ex5_Chat_program_server.pdb
+C:\Users\Sander\RiderProjects\DNP1\Session3\Ex5_Chat_program_server\obj\Debug\net5.0\Ex5_Chat_program_server.csproj.AssemblyReference.cache
+C:\Users\Sander\RiderProjects\DNP1\Session3\Ex5_Chat_program_server\obj\Debug\net5.0\Ex5_Chat_program_server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sander\RiderProjects\DNP1\Session3\Ex5_Chat_program_server\obj\Debug\net5.0\Ex5_Chat_program_server.AssemblyInfoInputs.cache
+C:\Users\Sander\RiderProjects\DNP1\Session3\Ex5_Chat_program_server\obj\Debug\net5.0\Ex5_Chat_program_server.AssemblyInfo.cs
+C:\Users\Sander\RiderProjects\DNP1\Session3\Ex5_Chat_program_server\obj\Debug\net5.0\Ex5_Chat_program_server.csproj.CoreCompileInputs.cache
+C:\Users\Sander\RiderProjects\DNP1\Session3\Ex5_Chat_program_server\obj\Debug\net5.0\Ex5_Chat_program_server.dll
+C:\Users\Sander\RiderProjects\DNP1\Session3\Ex5_Chat_program_server\obj\Debug\net5.0\ref\Ex5_Chat_program_server.dll
+C:\Users\Sander\RiderProjects\DNP1\Session3\Ex5_Chat_program_server\obj\Debug\net5.0\Ex5_Chat_program_server.pdb
+C:\Users\Sander\RiderProjects\DNP1\Session3\Ex5_Chat_program_server\obj\Debug\net5.0\Ex5_Chat_program_server.genruntimeconfig.cache

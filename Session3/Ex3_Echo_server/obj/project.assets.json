@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\SandersOpPc\\.nuget\\packages\\": {}
+    "C:\\Users\\Sander\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SandersOpPc\\RiderProjects\\DNP1\\Session3\\Ex3_Echo_server\\Ex3_Echo_server.csproj",
+      "projectUniqueName": "C:\\Users\\Sander\\RiderProjects\\DNP1\\Session3\\Ex3_Echo_server\\Ex3_Echo_server.csproj",
       "projectName": "Ex3_Echo_server",
-      "projectPath": "C:\\Users\\SandersOpPc\\RiderProjects\\DNP1\\Session3\\Ex3_Echo_server\\Ex3_Echo_server.csproj",
-      "packagesPath": "C:\\Users\\SandersOpPc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SandersOpPc\\RiderProjects\\DNP1\\Session3\\Ex3_Echo_server\\obj\\",
+      "projectPath": "C:\\Users\\Sander\\RiderProjects\\DNP1\\Session3\\Ex3_Echo_server\\Ex3_Echo_server.csproj",
+      "packagesPath": "C:\\Users\\Sander\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Sander\\RiderProjects\\DNP1\\Session3\\Ex3_Echo_server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\SandersOpPc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Sander\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   }

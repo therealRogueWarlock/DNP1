@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SandersOpPc\\RiderProjects\\DNP1\\Session1\\Ex8\\Ex8.csproj": {}
+    "C:\\Users\\Sander\\RiderProjects\\DNP1\\Session1\\Ex8\\Ex8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SandersOpPc\\RiderProjects\\DNP1\\Session1\\Ex8\\Ex8.csproj": {
+    "C:\\Users\\Sander\\RiderProjects\\DNP1\\Session1\\Ex8\\Ex8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SandersOpPc\\RiderProjects\\DNP1\\Session1\\Ex8\\Ex8.csproj",
+        "projectUniqueName": "C:\\Users\\Sander\\RiderProjects\\DNP1\\Session1\\Ex8\\Ex8.csproj",
         "projectName": "Ex8",
-        "projectPath": "C:\\Users\\SandersOpPc\\RiderProjects\\DNP1\\Session1\\Ex8\\Ex8.csproj",
-        "packagesPath": "C:\\Users\\SandersOpPc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SandersOpPc\\RiderProjects\\DNP1\\Session1\\Ex8\\obj\\",
+        "projectPath": "C:\\Users\\Sander\\RiderProjects\\DNP1\\Session1\\Ex8\\Ex8.csproj",
+        "packagesPath": "C:\\Users\\Sander\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sander\\RiderProjects\\DNP1\\Session1\\Ex8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\SandersOpPc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Sander\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }

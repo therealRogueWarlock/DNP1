@@ -12,7 +12,7 @@ namespace Ex11
         public static int CountClumps(int[] ints)
         {
             
-            int count=0;
+            int count;
 
             for (int i = 0; i < ints.Length - 1; i++)
             {
@@ -22,10 +22,10 @@ namespace Ex11
                 }
                 
                 
-            }    
-                
-            return count;
-            
+            }
+
+
+            return 1;
         }
     }
 }
