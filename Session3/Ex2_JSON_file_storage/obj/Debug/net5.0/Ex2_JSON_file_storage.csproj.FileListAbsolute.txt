@@ -1,0 +1,16 @@
+C:\Users\SandersOpPc\RiderProjects\DNP1\Session3\Ex2_JSON_file_storage\bin\Debug\net5.0\Ex2_JSON_file_storage.exe
+C:\Users\SandersOpPc\RiderProjects\DNP1\Session3\Ex2_JSON_file_storage\bin\Debug\net5.0\Ex2_JSON_file_storage.deps.json
+C:\Users\SandersOpPc\RiderProjects\DNP1\Session3\Ex2_JSON_file_storage\bin\Debug\net5.0\Ex2_JSON_file_storage.runtimeconfig.json
+C:\Users\SandersOpPc\RiderProjects\DNP1\Session3\Ex2_JSON_file_storage\bin\Debug\net5.0\Ex2_JSON_file_storage.runtimeconfig.dev.json
+C:\Users\SandersOpPc\RiderProjects\DNP1\Session3\Ex2_JSON_file_storage\bin\Debug\net5.0\Ex2_JSON_file_storage.dll
+C:\Users\SandersOpPc\RiderProjects\DNP1\Session3\Ex2_JSON_file_storage\bin\Debug\net5.0\ref\Ex2_JSON_file_storage.dll
+C:\Users\SandersOpPc\RiderProjects\DNP1\Session3\Ex2_JSON_file_storage\bin\Debug\net5.0\Ex2_JSON_file_storage.pdb
+C:\Users\SandersOpPc\RiderProjects\DNP1\Session3\Ex2_JSON_file_storage\obj\Debug\net5.0\Ex2_JSON_file_storage.csproj.AssemblyReference.cache
+C:\Users\SandersOpPc\RiderProjects\DNP1\Session3\Ex2_JSON_file_storage\obj\Debug\net5.0\Ex2_JSON_file_storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SandersOpPc\RiderProjects\DNP1\Session3\Ex2_JSON_file_storage\obj\Debug\net5.0\Ex2_JSON_file_storage.AssemblyInfoInputs.cache
+C:\Users\SandersOpPc\RiderProjects\DNP1\Session3\Ex2_JSON_file_storage\obj\Debug\net5.0\Ex2_JSON_file_storage.AssemblyInfo.cs
+C:\Users\SandersOpPc\RiderProjects\DNP1\Session3\Ex2_JSON_file_storage\obj\Debug\net5.0\Ex2_JSON_file_storage.csproj.CoreCompileInputs.cache
+C:\Users\SandersOpPc\RiderProjects\DNP1\Session3\Ex2_JSON_file_storage\obj\Debug\net5.0\Ex2_JSON_file_storage.dll
+C:\Users\SandersOpPc\RiderProjects\DNP1\Session3\Ex2_JSON_file_storage\obj\Debug\net5.0\ref\Ex2_JSON_file_storage.dll
+C:\Users\SandersOpPc\RiderProjects\DNP1\Session3\Ex2_JSON_file_storage\obj\Debug\net5.0\Ex2_JSON_file_storage.pdb
+C:\Users\SandersOpPc\RiderProjects\DNP1\Session3\Ex2_JSON_file_storage\obj\Debug\net5.0\Ex2_JSON_file_storage.genruntimeconfig.cache

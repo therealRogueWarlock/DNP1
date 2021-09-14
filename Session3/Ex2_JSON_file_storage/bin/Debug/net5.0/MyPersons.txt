@@ -1,0 +1,38 @@
+[
+  {
+    "FirstName": "Frederik",
+    "LastName": "Marker",
+    "Age": 22,
+    "Height": 180,
+    "IsMarried": false,
+    "Sex": "M",
+    "Hobbies": [
+      "Nothing",
+      "nothing"
+    ]
+  },
+  {
+    "FirstName": "Sander",
+    "LastName": "Kirchert",
+    "Age": 26,
+    "Height": 182,
+    "IsMarried": false,
+    "Sex": "M",
+    "Hobbies": [
+      "Motorcross",
+      "Coding"
+    ]
+  },
+  {
+    "FirstName": "Sebastian",
+    "LastName": "Thomsen",
+    "Age": 24,
+    "Height": 190,
+    "IsMarried": false,
+    "Sex": "M",
+    "Hobbies": [
+      "Gymnastics",
+      "Wowe"
+    ]
+  }
+]
