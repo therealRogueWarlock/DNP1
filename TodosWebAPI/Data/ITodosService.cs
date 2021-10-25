@@ -9,6 +9,8 @@ namespace TodoApp.Data
         void AddTodo(Todo todo);
 
         void DeleteTodo(int todoId);
+
+        void UpdateTodo(Todo todo);
         
 
     }

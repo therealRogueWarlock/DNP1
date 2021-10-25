@@ -16,7 +16,6 @@ namespace TodoApp.Data
         {
             if (!File.Exists(todoFile))
             {
-                
                 Seed();
                 string todosAsJson = JsonSerializer.Serialize(todos);
                 File.WriteAllText(todoFile, todosAsJson);
@@ -31,20 +30,34 @@ namespace TodoApp.Data
 
         public IList<Todo> GetTodos()
         {
-            
             return new List<Todo>(todos);
         }
 
         public void AddTodo(Todo todo)
         {
             todos.Add(todo);
-            string todoAsJson = JsonSerializer.Serialize(todo);
-            File.WriteAllText(todoFile,todoAsJson);
+            WriteTodosToFile();
         }
 
         public void DeleteTodo(int todoId)
         {
             todos.Remove(todos.First(todo => todo.TodoId == todoId));
+            WriteTodosToFile();
+        }
+
+        public void UpdateTodo(Todo todo)
+        {
+            Todo toUpdate = todos.First(t => t.TodoId == todo.TodoId);
+            toUpdate.IsCompleted = todo.IsCompleted;
+            toUpdate.Title = todo.Title;
+            WriteTodosToFile();
+        }
+
+
+        private void WriteTodosToFile()
+        {
+            string todosAsJson = JsonSerializer.Serialize(todos);
+            File.WriteAllText(todoFile, todosAsJson);
         }
 
         private void Seed()
