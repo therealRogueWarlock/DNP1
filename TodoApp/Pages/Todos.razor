@@ -1,0 +1,67 @@
+﻿@page "/Todos"
+@using TodoApp.Data
+@using TodoApp.Models
+@using System.Threading
+@using System.Diagnostics
+@inject ITodoData TodoData
+
+
+<h3>Todos</h3>
+
+@if (todos == null)
+{
+    
+    <p>
+        <em>Loading...</em>
+         @{ Console.WriteLine($"no things{Thread.CurrentThread.ManagedThreadId}");}
+    </p>
+}
+else if (!todos.Any())
+{
+    <p>
+        <em>No ToDo items exist. Please add some.</em>
+        @{ Console.WriteLine("ToDo items exist");}
+        
+    </p>
+}
+else
+{
+    
+    <table class="table">
+        @{ Console.WriteLine($"found them things{Thread.CurrentThread.ManagedThreadId}");}
+        
+        <thead>
+        <tr>
+            <th>User ID</th> <th>Todo ID</th> <th>Title</th> <th>Completed?</th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var item in todos)
+        {
+            <tr>
+                <td>@item.UserId</td>
+                <td>@item.TodoId</td>
+                <td>@item.Title</td>
+                <td>@item.IsCompleted</td>
+            </tr>
+        }
+        </tbody>
+    </table>
+}
+
+
+
+@code {
+
+    private IList<Todo> todos;
+
+    private string DebugString;
+
+    protected override async Task OnInitializedAsync()
+    {
+        
+        todos = TodoData.GetTodos();
+    }
+    
+    
+}
